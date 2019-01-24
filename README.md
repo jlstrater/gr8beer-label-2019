@@ -70,7 +70,7 @@ We will try to get these printed individually and put randomly on the back of th
 
 This is a bit experimental, so let's see how it goes.
 
-To submit a back label, either tweet using the #GR8beer tag or make a push request to the "backlabels" directory.
+To submit a back label, either tweet using the #GR8ConfBeer tag or make a push request to the "backlabels" directory.
 If you have a design in mind, the same format and content restrictions as above applies, but you don't need to make room for the alcohol percentage or
 the type of beer. And to lower the confusion, try to not make it look like a beer label. However, you are also welcome to submit just a few lines of text or a quote and we'll handle the formatting.
 
